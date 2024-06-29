@@ -1,0 +1,45 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "vegy",
+      "title": "Plan 'Usual'",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 10,
+      "id": "6053"
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan 'Premium'",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 15,
+      "id": "c630"
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "post",
+      "title": "VIP",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 20,
+      "id": "56b2"
+    }
+  ],
+  "request": [
+    {
+      "id": "b62c",
+      "name": "Rustam",
+      "phone": "+998944900749"
+    },
+    {
+      "id": "550d",
+      "name": "Rustamjon",
+      "phone": "+998944999053"
+    },
+    {
+      "id": "9729",
+      "name": "Rustamj",
+      "phone": "945876525"
+    }
+  ]
+}
